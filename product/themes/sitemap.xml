@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://funttastic.com/index.html</loc>
+    <lastmod>2017-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://funttastic.com/images/pasted%20image%20238x34.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://funttastic.com/images/mockup.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://funttastic.com/images/wizard.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://funttastic.com/images/pasted%20image%20200x244.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://funttastic.com/images/mockup617x348.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://funttastic.com/images/mockup537x303.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://funttastic.com/images/mockup278x157.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://funttastic.com/images/mockup307x173.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
