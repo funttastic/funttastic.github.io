@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="funttastic.com" resolutions="1x" timestamp="1512001082048">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="funttastic.com" resolutions="1x" timestamp="1512237934229">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="187696562" ref="index"/>
-    <file name="nomq_index.css" crc="3758909844" ref="index"/>
+    <file name="index.css" crc="200807928" ref="index"/>
+    <file name="nomq_index.css" crc="4187112955" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -46,6 +46,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="redux.png" crc="40049339" ref="index">
       <caption webpage="index" alt=""/>
@@ -53,8 +54,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="material.jpg" crc="4247639395" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -69,15 +72,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="styled.png" crc="484430685" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="styled.png" crc="392603352" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="primereact.png" crc="3886541503" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -92,8 +96,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="flexbox.jpg" crc="4138443600" ref="index"/>
+    <file name="flexbox-u813-fr.jpg" crc="3945891364" ref="index"/>
     <file name="crearereact.png" crc="3806640074" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -108,16 +113,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="wizard.svg" crc="89713467" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wizard_poster_.png" crc="122705029" ref="index"/>
+    <file name="wizard.svg" crc="295555949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wizard_poster_.png" crc="109250977" ref="index"/>
     <file name="pasted image 200x244.png" crc="3996880460" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -133,31 +139,28 @@
     <file name="facebook-logo-button.svg" crc="200355964" ref="index"/>
     <file name="facebook-logo-button_poster_u1078.png" crc="504728348" ref="index"/>
     <file name="u273-42.png" crc="226758484" ref="index"/>
+    <file name="styled-u685-fr.png" crc="391319719" ref="index"/>
+    <file name="flexbox-u813-fr2.jpg" crc="136880533" ref="index"/>
     <file name="u273-43.png" crc="226758484" ref="index"/>
     <file name="mockup617x348.png" crc="398184320" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="styled-u685-fr2.png" crc="237221293" ref="index"/>
+    <file name="flexbox-u813-fr3.jpg" crc="4076730588" ref="index"/>
     <file name="u273-44.png" crc="226758484" ref="index"/>
     <file name="mockup537x303.png" crc="121403131" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="flexbox-u813-fr4.jpg" crc="95937347" ref="index"/>
+    <file name="99599-olik58-860-01-u100-fr.png" crc="513943578" ref="index"/>
     <file name="u273-45.png" crc="226758484" ref="index"/>
-    <file name="mockup278x157.png" crc="3882478346" seo="true" ref="index">
+    <file name="mockup392x221.png" crc="3853253265" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="react-u645-fr.png" crc="278194068" ref="index"/>
-    <file name="material-u656-fr.jpg" crc="3829767576" ref="index"/>
-    <file name="redux-u634-fr.png" crc="100836081" ref="index"/>
-    <file name="materialui-u686-fr.jpg" crc="3994968057" ref="index"/>
-    <file name="styled-u685-fr.png" crc="3799316993" ref="index"/>
-    <file name="primereact-u690-fr.png" crc="3850182047" ref="index"/>
-    <file name="immutable-u814-fr.png" crc="4063660260" ref="index"/>
-    <file name="flexbox-u813-fr.jpg" crc="146594083" ref="index"/>
-    <file name="jest-u822-fr.jpg" crc="3906344732" ref="index"/>
-    <file name="99599-olik58-860-01-u100-fr.png" crc="513943578" ref="index"/>
+    <file name="flexbox.jpg" crc="4068741102" ref="index"/>
     <file name="mockup307x173.png" crc="441598627" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3976631976" seo="true" mt="1512000588921" redirect="true"/>
+  <file name="index.html" crc="70402308" seo="true" mt="1512237809330" redirect="true"/>
 </manifest>
