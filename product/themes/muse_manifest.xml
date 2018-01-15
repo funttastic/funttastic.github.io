@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="funttastic.com" resolutions="1x" timestamp="1512350318111">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.funttastic.com" resolutions="1x" timestamp="1515978296630">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="346336377" ref="index"/>
-    <file name="nomq_index.css" crc="397483230" ref="index"/>
+    <file name="index.css" crc="443646886" ref="index"/>
+    <file name="nomq_index.css" crc="516037919" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -15,19 +15,10 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="99599-olik58-860-01.png" crc="421883221" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="prancheta 2.png" crc="127722896" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 238x34.png" crc="3903433847" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="mockup.png" crc="3998686273" seo="true" ref="index">
+    <file name="macbook-clipart-apple-laptop-12.png" crc="96393977" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -47,7 +38,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="material.png" crc="4229537726" ref="index">
+    <file name="material.jpg" crc="4247639395" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -55,7 +46,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="bootstrap.svg" crc="4239331930" ref="index"/>
-    <file name="bootstrap_poster_u767.png" crc="4090853558" ref="index"/>
+    <file name="bootstrap_poster_u7567.png" crc="4090853558" ref="index"/>
     <file name="materialui.jpg" crc="67184541" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -78,7 +69,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="reactrouter.svg" crc="453063061" ref="index"/>
-    <file name="reactrouter_poster_u799.png" crc="4239402789" ref="index"/>
+    <file name="reactrouter_poster_u7634.png" crc="4239402789" ref="index"/>
     <file name="immutable.png" crc="4080449373" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -86,7 +77,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="flexbox-u813-fr.jpg" crc="3958221314" ref="index"/>
+    <file name="flexbox-u813-fr.jpg" crc="4095361238" ref="index"/>
     <file name="crearereact.png" crc="3806640074" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -117,21 +108,22 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="linkedin-logo-button.svg" crc="210350324" ref="index"/>
-    <file name="linkedin-logo-button_poster_u1106.png" crc="4045837507" ref="index"/>
+    <file name="linkedin-logo-button_poster_u7590.png" crc="4045837507" ref="index"/>
     <file name="instagram-logo.svg" crc="3796460705" ref="index"/>
-    <file name="instagram-logo_poster_u1092.png" crc="291727520" ref="index"/>
+    <file name="instagram-logo_poster_u7598.png" crc="291727520" ref="index"/>
     <file name="facebook-logo-button.svg" crc="200355964" ref="index"/>
-    <file name="facebook-logo-button_poster_u1078.png" crc="504728348" ref="index"/>
-    <file name="flexbox-u813-fr2.jpg" crc="4063946905" ref="index"/>
-    <file name="flexbox-u813-fr3.jpg" crc="438904519" ref="index"/>
-    <file name="99599-olik58-860-01-u100-fr.png" crc="513943578" ref="index"/>
-    <file name="mockup537x303.png" crc="4089682363" seo="true" ref="index">
+    <file name="facebook-logo-button_poster_u7575.png" crc="504728348" ref="index"/>
+    <file name="flexbox-u813-fr2.jpg" crc="4122541182" ref="index"/>
+    <file name="flexbox-u813-fr3.jpg" crc="4128751670" ref="index"/>
+    <file name="macbook-clipart-apple-laptop-12537x303.png" crc="3938331282" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="flexbox.jpg" crc="3854194585" ref="index"/>
-    <file name="mockup307x173.png" crc="441598627" seo="true" ref="index">
+    <file name="flexbox.jpg" crc="3869393655" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="macbook-clipart-apple-laptop-12307x173.png" crc="3797342847" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3835949360" seo="true" mt="1512349374478" redirect="true"/>
+  <file name="index.html" crc="501927676" seo="true" mt="1515978148641" redirect="true"/>
 </manifest>
