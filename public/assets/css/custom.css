@@ -89,12 +89,12 @@ header.header4 .navbar ul li.current-menu-item a,
 
 .woocommerce-message,
 .woocommerce-info {
-    border-top-color: rgba(243, 133, 0, 1);
+    border-top-color: rgba(69,116,188,1);
 }
 
 .rev_slider #slide-1-layer-3,
 .rev_slider #slide-2-layer-3 {
-    color: rgba(243, 133, 0, 1) !important;
+    color: rgba(69,116,188,1) !important;
 }
 
 .dotCircle .itemDot .forActive::before,
@@ -123,11 +123,11 @@ blockquote,
 .car-img-slider .owl-carousel .owl-nav i:hover,
 .vizion-carblog .owl-carousel .owl-nav i:hover,
 .vizion-insuarance-blog .owl-carousel .iq-blog-box .iq-blog-detail {
-    border-color: rgba(243, 133, 0, 1);
+    border-color: rgba(69,116,188,1);
 }
 
 .page-numbers li .page-numbers:hover {
-    background-color: rgba(243, 133, 0, 1);
+    background-color: rgba(69,116,188,1);
 }
 
 .play-video .iq-video,
@@ -138,7 +138,7 @@ blockquote,
 .big-text,
 footer.footer3 .widget ul.menu li a:hover,
 footer.footer3 .social-icone ul li a:hover {
-    color: rgba(243, 133, 0, 1) !important;
+    color: rgba(69,116,188,1) !important;
 }
 
 .play-video .iq-video:hover,
@@ -148,13 +148,13 @@ footer.footer2 .info-share a:hover,
 }
 
 .job-feedback .feedback-text:after {
-    border-top-color: rgba(243, 133, 0, 1);
-    border-right-color: rgba(243, 133, 0, 1);
+    border-top-color: rgba(69,116,188,1);
+    border-right-color: rgba(69,116,188,1);
 }
 
 .breadcrumb-item.active::before,
 .breadcrumb-item+.breadcrumb-item::before {
-    color: rgba(243, 133, 0, 1);
+    color: rgba(69,116,188,1);
     -webkit-text-fill-color: rgba(69,116,188,1);
 }
 
@@ -248,15 +248,15 @@ header.header-with-searchbar .navbar-light .navbar-nav .menu-item a::before {
 }
 
 *::-moz-selection {
-    background: rgba(243, 133, 0, 1);
+    background: rgba(69,116,188,1);
 }
 
 ::-moz-selection {
-    background: rgba(243, 133, 0, 1);
+    background: rgba(69,116,188,1);
 }
 
 ::selection {
-    background: rgba(243, 133, 0, 1);
+    background: rgba(69,116,188,1);
 }
 
 @media(max-width:992px) {
@@ -267,7 +267,7 @@ header.header-with-searchbar .navbar-light .navbar-nav .menu-item a::before {
         background: linear-gradient(0deg, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     }
     header .navbar-light .navbar-toggler {
-        border-color: rgba(243, 133, 0, 1) !important;
+        border-color: rgba(69,116,188,1) !important;
     }
 }
 
@@ -302,13 +302,18 @@ footer.footer2 .info-share a:hover,
 .cd-horizontal-timeline .filling-line,
 .cd-horizontal-timeline .events a.older-event::after {
     background: rgba(255, 200, 0, 1);
-    background: rgba(243, 133, 0, 1);
-    background: -moz-linear-gradient(left, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);
+    background: rgba(69,116,188,1);
+    /*background: -moz-linear-gradient(left, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);*/
+    background: -moz-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255, 200, 0, 1)), color-stop(100%, rgba(243, 133, 0, 1)));
-    background: -webkit-linear-gradient(left, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);
-    background: -o-linear-gradient(left, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);
-    background: -ms-linear-gradient(left, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);
-    background: linear-gradient(to right, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);
+    /*background: -webkit-linear-gradient(left, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);*/
+    background: -webkit-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
+    /*background: -o-linear-gradient(left, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);*/
+    background: -o-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
+    /*background: -ms-linear-gradient(left, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);*/
+    background: -ms-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
+    /*background: linear-gradient(to right, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);*/
+    background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='rgba(255,200,0,1)', endColorstr='rgba(243,133,0,1)', GradientType=1);
 }
 
@@ -330,7 +335,7 @@ header.header-with-searchbar .login li:last-child a {
 
 .iq-team .iq-team-img::before,
 .owl-carousel .owl-nav i {
-    background: linear-gradient(to bottom, rgba(0, 186, 2, 0.1) 0%, rgba(243, 133, 0, 1) 100%);
+    background: linear-gradient(0deg, rgba(69,116,188,1) 0%, rgba(69,116,188,0) 100%);
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
     -ms-transition: all 0.3s ease-out 0s;
