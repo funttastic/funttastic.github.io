@@ -259,7 +259,8 @@ header .navbar ul li:hover a { color: #ffffff; }
 header .navbar ul li .sub-menu li>.sub-menu { display: none; }
 header .navbar ul li .sub-menu li:hover>.sub-menu { display: block; background: #ffffff; position: absolute; top: 0; left: 100%; padding-left: 0; display: inline-block; width: 200px; -webkit-box-shadow: 0px 1px 30px 0px rgba(70, 200, 148, 0.25); -moz-box-shadow: 0px 1px 30px 0px rgba(70, 200, 148, 0.25); box-shadow: 0px 1px 30px 0px rgba(70, 200, 148, 0.05)!important; }
 /* Navigation Sticky */
-header.menu-sticky .main-header { position: fixed; top: 0; background: #ffffff; -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05); -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05); box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05) !important; }
+/* Changed-Darley */
+header.menu-sticky .main-header { position: fixed; top: 0; background: #f1f8fa; -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05); -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05); box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05) !important; }
 header.menu-sticky .main-header .navbar ul li a { line-height: 60px; }
 header.menu-sticky .main-header .navbar ul li:hover .sub-menu { top: 70px; }
 header.menu-sticky .navbar ul li .sub-menu li:hover>.sub-menu { top: 0; }
@@ -1960,10 +1961,10 @@ Space Tab
 /*---------------------------------------------------------------------
 Education-Tab
 -----------------------------------------------------------------------*/
-.iq-education-tab .nav-pills { background: transparent;
+/*.iq-education-tab .nav-pills { background: transparent;
 padding: 0px;
 border-top: 1px solid #7ecca6;
-border-bottom: 1px solid #7ecca6;}
+border-bottom: 1px solid #7ecca6;}*/
 .iq-education-tab .nav-item { margin-right: 10px; }
 .iq-education-tab .nav-item:last-child { margin-right: 0; }
 .iq-education-tab .nav-item a { background: #ffffff; color: #464855; font-weight: 600; font-size: 18px; position: relative; border: inherit; padding: 8px 10px; border-radius: 90px; transition: all 0s ease-in-out; -webkit-transition: all 0s ease-in-out; -o-transition: all 0s ease-in-out; -moz-transition: all 0s ease-in-out; -ms-transition: all 0s ease-in-out; }
@@ -2115,7 +2116,7 @@ footer.footer10 { background: #000; }
 /*---------------------------------------------------------------------
 Education-Footer
 -----------------------------------------------------------------------*/
-footer.education {background: #f0840033 ;}
+footer.education {background: #E3F2FD ;} /* Changed-Darley */
 footer.education .widget ul.menu li a {color: #6a7683;}
 footer.education .iq-contact li a {color: #6a7683;}
 footer.education .widget p{color: #6a7683;}
@@ -2536,4 +2537,4 @@ z-index: -1;}
 .iq-ecom-circle-style .circle-border2 { background: #fff0ee; }
 .iq-ecom-circle-style .circle-border3 { background: #e8f9f5; }
 
-.iq-bg-orange{ background-color: #fae5cc33;}
+.iq-bg-orange{ background-color: #f1f8fa;} /* Changed-Darley */
