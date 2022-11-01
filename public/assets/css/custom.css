@@ -392,7 +392,7 @@ body header .navbar-light .navbar-toggler,
 /*---------------------------------------------------------------------
                  Custom styling
 -----------------------------------------------------------------------*/
-.iq-ptb-100, section { padding: 100px 0; }
+/*.iq-ptb-100, section { padding: 100px 0; }*/
 .iq-pt-100 { padding-top: 100px; }
 
 .iq-ptb-80 { padding: 80px 0; }
