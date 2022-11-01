@@ -79,7 +79,7 @@ footer.manufacturing .iq-contact li a:hover,
 footer.manufacturing input[type=submit],
 header.header4 .navbar ul li.current-menu-item a,
 .owl-carousel.left.our-testimonial .item.image-left .iq-testimon-detail:after {
-    color: rgb(5,55,66);
+    color: rgb(0,128,0);
 }
 
 .iq-challange-box a,
@@ -232,8 +232,7 @@ footer.education .footer-up .iq-footer-button:hover,
 footer.footer2,
 footer.manufacturing .info-share li a:hover,
 footer.manufacturing input[type=submit]:hover {
-    /*background: linear-gradient(to right, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);*/
-    background: linear-gradient(0deg, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);;
+    background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
 }
 
 .woocommerce div.product .woocommerce-tabs ul.tabs li.active,
@@ -243,8 +242,7 @@ footer.manufacturing input[type=submit]:hover {
 .woocommerce ul.products li.product .iq-product-block .button:hover,
 .woocommerce a.added_to_cart:hover,
 header.header-with-searchbar .navbar-light .navbar-nav .menu-item a::before {
-   /* background: linear-gradient(to right, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%) !important;*/
-   background: linear-gradient(0deg, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%); !important;
+    background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%) !important;
 }
 
 *::-moz-selection {
@@ -263,8 +261,7 @@ header.header-with-searchbar .navbar-light .navbar-nav .menu-item a::before {
     body header .navbar ul li.current-menu-item a,
     body header .navbar ul li a:hover,
     header .navbar-light .navbar-toggler {
-        /*background: linear-gradient(to right, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);*/
-        background: linear-gradient(0deg, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
+        background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     }
     header .navbar-light .navbar-toggler {
         border-color: rgba(69,116,188,1) !important;
@@ -303,16 +300,11 @@ footer.footer2 .info-share a:hover,
 .cd-horizontal-timeline .events a.older-event::after {
     background: rgba(255, 200, 0, 1);
     background: rgba(69,116,188,1);
-    /*background: -moz-linear-gradient(left, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);*/
     background: -moz-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255, 200, 0, 1)), color-stop(100%, rgba(243, 133, 0, 1)));
-    /*background: -webkit-linear-gradient(left, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);*/
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255, 200, 0, 1)), color-stop(100%, rgba(69,116,188,1)));
     background: -webkit-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
-    /*background: -o-linear-gradient(left, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);*/
     background: -o-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
-    /*background: -ms-linear-gradient(left, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);*/
     background: -ms-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
-    /*background: linear-gradient(to right, rgba(255, 200, 0, 1) 0%, rgba(243, 133, 0, 1) 100%);*/
     background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='rgba(255,200,0,1)', endColorstr='rgba(243,133,0,1)', GradientType=1);
 }
@@ -320,7 +312,7 @@ footer.footer2 .info-share a:hover,
 .breadcrumb-item.active {
     background: rgba(255, 200, 0, 1);
     background: -moz-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255, 200, 0, 1)), color-stop(100%, rgba(243, 133, 0, 1)));
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255, 200, 0, 1)), color-stop(100%, rgba(69,116,188,1)));
     background: -webkit-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     background: -o-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     background: -ms-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
@@ -393,9 +385,9 @@ body header .navbar-light .navbar-toggler,
 .iq-accordion .ad-details,
 .owl-carousel .owl-dots .owl-dot.active,
 .owl-carousel .owl-dots .owl-dot:hover,
-/*.iq-education-tab .nav-pills {
-    border-color: #ffc800;
-}*/
+.iq-education-tab .nav-pills {
+    border-color: #ffffff;
+}
 
 /*---------------------------------------------------------------------
                  Custom styling
@@ -404,11 +396,11 @@ body header .navbar-light .navbar-toggler,
 .iq-pt-100 { padding-top: 100px; }
 
 .iq-ptb-80 { padding: 80px 0; }
-/* .iq-bg-primary { 
-    background-color: #fce6cc !important;
-}*/
+ .iq-bg-primary {
+    background-color: #f1f8fa !important;
+}
 .iq-bg-darker {
-    background-color: #333333 !important;
+    background-color: #f1f8fa !important;
 }
 .iq-bg-primary{
     background-color: #f1f8fa !important;
