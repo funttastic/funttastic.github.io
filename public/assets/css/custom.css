@@ -232,7 +232,8 @@ footer.education .footer-up .iq-footer-button:hover,
 footer.footer2,
 footer.manufacturing .info-share li a:hover,
 footer.manufacturing input[type=submit]:hover {
-    background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
+    /*background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);*/
+    background: #008000;
 }
 
 .woocommerce div.product .woocommerce-tabs ul.tabs li.active,
@@ -242,7 +243,8 @@ footer.manufacturing input[type=submit]:hover {
 .woocommerce ul.products li.product .iq-product-block .button:hover,
 .woocommerce a.added_to_cart:hover,
 header.header-with-searchbar .navbar-light .navbar-nav .menu-item a::before {
-    background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%) !important;
+    /*background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%) !important;*/
+    background: #008000;
 }
 
 *::-moz-selection {
@@ -261,7 +263,8 @@ header.header-with-searchbar .navbar-light .navbar-nav .menu-item a::before {
     body header .navbar ul li.current-menu-item a,
     body header .navbar ul li a:hover,
     header .navbar-light .navbar-toggler {
-        background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
+        /*background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);*/
+        background: #008000;
     }
     header .navbar-light .navbar-toggler {
         border-color: rgba(69,116,188,1) !important;
@@ -305,7 +308,8 @@ footer.footer2 .info-share a:hover,
     background: -webkit-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     background: -o-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     background: -ms-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
-    background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
+    /*background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);*/
+    background: #008000;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='rgba(255,200,0,1)', endColorstr='rgba(243,133,0,1)', GradientType=1);
 }
 
@@ -316,7 +320,8 @@ footer.footer2 .info-share a:hover,
     background: -webkit-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     background: -o-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     background: -ms-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
-    background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
+    /*background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);*/
+    background: #008000;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
