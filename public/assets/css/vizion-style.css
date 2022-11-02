@@ -136,7 +136,7 @@ Clearing floats
 /*---------------------------------------------------------------------
 Back to Top
 -----------------------------------------------------------------------*/
-#back-to-top .top { z-index: 999; position: fixed; margin: 0px; color: #ffffff; background: #333333; position: fixed; bottom: 90px; right: 25px; z-index: 999; font-size: 26px; width: 50px; height: 50px; text-align: center; line-height: 50px; border-radius: 90px; -webkit-transition: all .3s ease-in-out; -moz-transition: all .3s ease-in-out; transition: all .3s ease-in-out; }
+#back-to-top .top { z-index: 999; position: fixed; margin: 0px; color: #ffffff; background: #008000; position: fixed; bottom: 90px; right: 25px; z-index: 999; font-size: 26px; width: 50px; height: 50px; text-align: center; line-height: 50px; border-radius: 90px; -webkit-transition: all .3s ease-in-out; -moz-transition: all .3s ease-in-out; transition: all .3s ease-in-out; }
 #back-to-top .top:hover { background: #46c894; color: #ffffff; -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05); -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05); box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05); }
 /*---------------------------------------------------------------------
 Loader
@@ -2154,9 +2154,9 @@ footer.education .social-icone ul li a{display: block;
     line-height: 45px;
     font-size: 16px;
     color: #ffffff;
-    background: #093c60;
+    background: #52ec08;
     text-align: center;
-    border: 1px solid transparent;
+    border: 2px solid green;
     border-radius: 50%;}
 /*---------------------------------------------------------------------
 Manufacturing-Footer

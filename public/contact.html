@@ -58,9 +58,9 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <div class="menu-top-menu-container">
                             <ul id="top-menu" class="navbar-nav ml-auto">
-                                <li class="menu-item "><a href="index.html" aria-current="page">Home</a></li>
+                                <li class="menu-item"><a href="index.html" aria-current="page">Home</a></li>
                                 <li class="menu-item current-menu-item">
-                                <li class="menu-item current-menu-item"><a href="about.html">About</a></li>
+                                <li class="menu-item"><a href="about.html">About</a></li>
                                 <!-- <li class="menu-item"><a href="services.html">Services</a></li> -->
                                 <li class="menu-item"><a href="team.html">Team</a></li>
                                 <li class="menu-item">
@@ -76,6 +76,7 @@
     </div>
 </header>
 <!-- Header end -->
+
 <div class="main-content">
     <section class="iq-breadcrumb-five main-bg iq-bg-primary">
         <div class="container">
@@ -141,38 +142,45 @@
                         </div>
                     </div>
                 </div>
-            <div class="row iq-pt-100">
-                <div class="col-sm-12 col-lg-8 col-md-8 offset-lg-2 offset-md-2">
-                    <h2 class="text-center">Contact</h2>
-                    <p class="text-center">Leave us a message! We will contact you as soon as possible.</p>
+                <div class="row iq-pt-100">
+                    <div class="col-sm-12 col-lg-8 col-md-8 offset-lg-2 offset-md-2">
+                        <h2 class="text-center">Contact</h2>
+                        <p class="text-center">Leave us a message! We will contact you as soon as possible.</p>
 
-                    <div class="row mb-4">
-                        <div class="col-md-6">
-                            <label>Your Name (required)</label>
-                            <input type="text" name="your-name" value="" class="form-control validates-as-required" aria-required="true" aria-invalid="false">
+                        <div class="row mb-4">
+                            <div class="col-md-6">
+                                <label>Your Name (required)</label>
+                                <input type="text" name="your-name" value="" class="form-control validates-as-required"
+                                       aria-required="true" aria-invalid="false">
+                            </div>
+                            <div class="col-md-6">
+                                <label>Your Email (required)</label>
+                                <input type="email" name="your-email" value=""
+                                       class="form-control validates-as-required" aria-required="true"
+                                       aria-invalid="false">
+                            </div>
                         </div>
-                        <div class="col-md-6">
-                            <label>Your Email (required)</label>
-                            <input type="email" name="your-email" value="" class="form-control validates-as-required" aria-required="true" aria-invalid="false">
+                        <div class="row mb-4">
+                            <div class="col-md-12">
+                                <label>Subject</label>
+                                <input type="text" name="your-subject" value=""
+                                       class="form-control validates-as-required" aria-required="true"
+                                       aria-invalid="false">
+                            </div>
                         </div>
-                    </div>
-                    <div class="row mb-4">
-                        <div class="col-md-12">
-                            <label>Subject</label>
-                            <input type="text" name="your-subject" value="" class="form-control validates-as-required" aria-required="true" aria-invalid="false">
+                        <div class="row mb-4">
+                            <div class="col-md-12">
+                                <label>Your Message</label>
+                                <textarea name="your-message" class="wpcf7-form-control wpcf7-textarea"
+                                          aria-invalid="false" spellcheck="false"></textarea>
+                            </div>
                         </div>
-                    </div>
-                    <div class="row mb-4">
-                        <div class="col-md-12">
-                            <label>Your Message</label>
-                            <textarea name="your-message" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" spellcheck="false"></textarea>
-                        </div>
-                    </div>
 
-                    <div class="row">
-                        <div class="col-xl-12">
-                            <input type="submit" value="Send message" class="wpcf7-form-control wpcf7-submit">
-                            <span class="ajax-loader"></span>
+                        <div class="row">
+                            <div class="col-xl-12">
+                                <input type="submit" value="Send message" class="wpcf7-form-control wpcf7-submit">
+                                <span class="ajax-loader"></span>
+                            </div>
                         </div>
                     </div>
                 </div>
