@@ -82,7 +82,7 @@ blockquote { background: none; padding: 15px 30px; border-left: 5px solid #46c89
 blockquote ol:last-child, blockquote p:last-child, blockquote ul:last-child { margin-bottom: 0; }
 blockquote .blockquote-footer { font-style: italic; color: #6c757d; font-size: 14px; margin-top: 10px; }
 blockquote .blockquote-footer cite { color: #46c894; }
-p { margin-bottom: 30px; text-align: justify; text-justify: inter-word;}
+p { margin-bottom: 30px; margin-right: 90px; text-align: justify; text-justify: inter-word;}
 /* Lists (Nested) */
 ol, ul { padding-left: 25px; margin-bottom: 1em; }
 ol li { list-style: decimal; }
@@ -1710,7 +1710,7 @@ Health Fancy-Box
 /*---------------------------------------------------------------------
 Health list Style
 -----------------------------------------------------------------------*/
-.iq-list-styletwo { /*margin: 15px 0 0;*/ padding: 0; display: inline-block; width: 100%; }
+.iq-list-styletwo { /*margin: 15px 0 0;*/ padding: 0; display: inline-block; width: 85%; }
 .iq-list-styletwo li { margin-bottom: 15px; list-style: none; }
 .iq-list-styletwo li:last-child { margin-bottom: 0; }
 .iq-list-styletwo li i { float: left; font-size: 18px; margin-top: 0; margin-right: 15px; color: #46c894; }
