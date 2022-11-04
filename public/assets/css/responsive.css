@@ -642,6 +642,7 @@
 	.slider-car-nav {
     padding: 0 18%;
 }
+	.footer-logo {text-align: center;}
 	.slick-slider.slider-car-nav .slick-list { padding: 0 0px !important;}
 	#iq-tooltip { width: 300px !important; }
 	.tooltip-down.tooltip-down-0 { left: 135px !important; }
