@@ -79,7 +79,7 @@ footer.manufacturing .iq-contact li a:hover,
 footer.manufacturing input[type=submit],
 header.header4 .navbar ul li.current-menu-item a,
 .owl-carousel.left.our-testimonial .item.image-left .iq-testimon-detail:after {
-    color: rgb(0,128,0);
+    color: rgb(0, 128, 0);
 }
 
 .iq-challange-box a,
@@ -232,7 +232,8 @@ footer.education .footer-up .iq-footer-button:hover,
 footer.footer2,
 footer.manufacturing .info-share li a:hover,
 footer.manufacturing input[type=submit]:hover {
-    background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
+    /*background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);*/
+    background: #008000;
 }
 
 .woocommerce div.product .woocommerce-tabs ul.tabs li.active,
@@ -242,7 +243,12 @@ footer.manufacturing input[type=submit]:hover {
 .woocommerce ul.products li.product .iq-product-block .button:hover,
 .woocommerce a.added_to_cart:hover,
 header.header-with-searchbar .navbar-light .navbar-nav .menu-item a::before {
-    background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%) !important;
+    /*background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%) !important;*/
+    background: #008000;
+}
+
+.navbar-nav2 {
+    background: #cb4e34;
 }
 
 *::-moz-selection {
@@ -258,13 +264,14 @@ header.header-with-searchbar .navbar-light .navbar-nav .menu-item a::before {
 }
 
 @media(max-width:992px) {
-    body header .navbar ul li.current-menu-item a,
-    body header .navbar ul li a:hover,
+/*    body header .navbar ul li.current-menu-item a,
+    body header .navbar ul li a:hover,*/
     header .navbar-light .navbar-toggler {
-        background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
+        /*background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);*/
+        background: #008000;
     }
     header .navbar-light .navbar-toggler {
-        border-color: rgba(69,116,188,1) !important;
+        border-color: rgb(0, 45, 0) !important;
     }
 }
 
@@ -279,7 +286,7 @@ header.header-with-searchbar .navbar-light .navbar-nav .menu-item a::before {
 .iq-education-tab .nav-pills .nav-link.active,
 .iq-education-tab .nav-pills .show>.nav-link,
 .iq-education-tab .nav-pills .nav-link:hover {
-    box-shadow: 8.388px 12.436px 29px 0px rgba(255, 200, 0, 0.38) !important;
+    box-shadow: 8.388px 12.436px 29px 0px rgba(0, 128, 0, 0.20) !important;
 }
 
 .iq-background-overlay,
@@ -305,7 +312,8 @@ footer.footer2 .info-share a:hover,
     background: -webkit-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     background: -o-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     background: -ms-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
-    background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
+    /*background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);*/
+    background: #008000;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='rgba(255,200,0,1)', endColorstr='rgba(243,133,0,1)', GradientType=1);
 }
 
@@ -316,7 +324,8 @@ footer.footer2 .info-share a:hover,
     background: -webkit-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     background: -o-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
     background: -ms-linear-gradient(left, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
-    background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);
+    /*background: linear-gradient(to right, rgba(118,146,188,1) 0%, rgba(69,116,188,1) 100%);*/
+    background: #008000;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -327,7 +336,7 @@ header.header-with-searchbar .login li:last-child a {
 
 .iq-team .iq-team-img::before,
 .owl-carousel .owl-nav i {
-    background: linear-gradient(0deg, rgba(69,116,188,1) 0%, rgba(69,116,188,0) 100%);
+    /*background: linear-gradient(0deg, rgba(69,116,188,1) 0%, rgba(69,116,188,0) 100%);*/
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
     -ms-transition: all 0.3s ease-out 0s;

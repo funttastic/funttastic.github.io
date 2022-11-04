@@ -319,7 +319,7 @@
 	header .navbar ul li .sub-menu li:hover>.sub-menu { width: 100%; background: #333333; position: relative; left: 0; box-shadow: none; padding: 0 }
 	header .navbar ul li .sub-menu li i:before { content: "\f107" }
 	header .navbar ul li a:before { display: none }
-	header .navbar ul li.current-menu-item a, header .navbar ul li a:hover { background: #46c894 }
+	header .navbar ul li.current-menu-item a, header .navbar ul li a:hover { background: #d9f2d9 }
 	.widget_calendar .calendar_wrap table th, .widget_calendar .calendar_wrap table td { padding: 5px }
 	.future-services { padding: 30px 15px }
 	.iq-breadcrumb .title { font-size: 38px }
