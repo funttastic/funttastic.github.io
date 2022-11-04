@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Questrial', sans-serif; font-weight: norm
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: inherit; }
 h1 { font-size: 3.052em; }
 h2 { font-size: 2.441em; }
-h3 { font-size: 1.953em; color: #008000}
+h3 { font-size: 1.953em; color: #008000; text-align: justify;}
 h4 { font-size: 1.563em; }
 h5 { font-size: 1.25em; }
 h6 { font-size: 1em; }
@@ -2539,7 +2539,7 @@ z-index: -1;}
 .iq-bg-orange{ background-color: #f1f8fa;}
 
 .centralize {
-  display: block;
+  display: flow-root;
   margin-left: auto;
   margin-right: auto;
 }
