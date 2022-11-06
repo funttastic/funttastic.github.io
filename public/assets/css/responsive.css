@@ -101,6 +101,9 @@
 	/*Space*/
 	.contact-block .contact-bg { margin-left: 0 }
 }
+@media(max-width:1230px) {
+    .responsive-footer {text-align: center;}
+}
 @media(max-width:1199px) {
 	#iq-tooltip { width: 400px !important; }
 	.iq-car-padding.vc_column_container { padding: 30px 60px; }
