@@ -85,9 +85,17 @@ Index Of Script
             /*------------------------
             Hidden Header Logo
             --------------------------*/
-            jQuery('#logo-header-hide').fadeOut();
+            jQuery('#logo-header-hide-index').fadeOut();
             jQuery(window).on("scroll", function () {
                 if (jQuery(this).scrollTop() > 180 && jQuery(this).scrollTop() < 1650) {
+                    jQuery('#logo-header-hide-index').fadeIn(1000);
+                } else {
+                    jQuery('#logo-header-hide-index').fadeOut(400);
+                }
+            });
+
+            jQuery(window).on("scroll", function () {
+                if (jQuery(this).scrollTop() < 550) {
                     jQuery('#logo-header-hide').fadeIn(1000);
                 } else {
                     jQuery('#logo-header-hide').fadeOut(400);
