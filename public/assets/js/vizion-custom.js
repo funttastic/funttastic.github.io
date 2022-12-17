@@ -87,7 +87,7 @@ Index Of Script
             --------------------------*/
             jQuery('#logo-header-hide').fadeOut();
             jQuery(window).on("scroll", function () {
-                if (jQuery(this).scrollTop() > 280 && jQuery(this).scrollTop() < 1500) {
+                if (jQuery(this).scrollTop() > 180 && jQuery(this).scrollTop() < 1650) {
                     jQuery('#logo-header-hide').fadeIn(1000);
                 } else {
                     jQuery('#logo-header-hide').fadeOut(400);
