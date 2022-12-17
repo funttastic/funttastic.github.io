@@ -64,8 +64,8 @@ a, .button, input { outline: medium none !important; color: #46c894; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Questrial', sans-serif; font-weight: normal; color: #008000; margin: 0; -ms-word-wrap: break-word; word-wrap: break-word; line-height: 1.5em; font-weight: 600; }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: inherit; }
 h1 { font-size: 3.052em; }
-h2 { font-size: 2.441em; }
-h3 { font-size: 1.953em; color: #008000; text-align: justify;}
+h2 { font-size: 2.441em; text-align: center;}
+h3 { font-size: 1.953em; color: #008000; text-align: center;}
 h4 { font-size: 1.563em; }
 h5 { font-size: 1.25em; }
 h6 { font-size: 1em; }
@@ -82,7 +82,7 @@ blockquote { background: none; padding: 15px 30px; border-left: 5px solid #46c89
 blockquote ol:last-child, blockquote p:last-child, blockquote ul:last-child { margin-bottom: 0; }
 blockquote .blockquote-footer { font-style: italic; color: #6c757d; font-size: 14px; margin-top: 10px; }
 blockquote .blockquote-footer cite { color: #46c894; }
-p { margin-bottom: 20px; text-align: justify; text-justify: inter-word;}
+p { margin-bottom: 20px; text-align: center; text-justify: inter-word;}
 /* Lists (Nested) */
 ol, ul { padding-left: 25px; margin-bottom: 1em; }
 ol li { list-style: decimal; }
