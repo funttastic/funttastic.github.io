@@ -83,6 +83,18 @@ Index Of Script
             });
 
             /*------------------------
+            Hidden Header Logo
+            --------------------------*/
+            jQuery('#logo-header-hide').fadeOut();
+            jQuery(window).on("scroll", function () {
+                if (jQuery(this).scrollTop() > 280 && jQuery(this).scrollTop() < 1500) {
+                    jQuery('#logo-header-hide').fadeIn(1000);
+                } else {
+                    jQuery('#logo-header-hide').fadeOut(400);
+                }
+            });
+
+            /*------------------------
                 3 Parallax
                 --------------------------*/
             if (jQuery("#scene1").length) {
